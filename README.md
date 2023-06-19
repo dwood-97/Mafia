@@ -58,8 +58,3 @@ We welcome contributions from the community. If you'd like to contribute, please
 ## License
 
 This project is licensed under the MIT License. See the LICENSE.md file for details.
-
-```vbnet
-
-This README provides some basic information about the project, including how to install it and run it. You can modify it as necessary to fit your project. Note that you'll need to replace `<your-github-username>` with your actual GitHub username in the `git clone` command.
-```

@@ -13,15 +13,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Install the required Python version if you haven't done so already. You can download Python from the [official website](https://www.python.org/downloads/).
+- Install the required Python version if you haven't done so already. You can download Python from the [official website](https://www.python.org/downloads/).
 
-2. Navigate to the directory in which you would like this program to be installed. Run the following command in your terminal:
+- Navigate to the directory in which you would like this program to be installed. Run the following command in your terminal:
 
 ```bash
 git clone https://github.com/dwood-97/Mafia
 ```
 
-3. Install the required libraries navigate to the "Mafia" directory. Run the following command in your terminal:
+- Install the required libraries navigate to the "Mafia" directory. Run the following command in your terminal:
 
 ```bash
 pip install -r requirements.txt
@@ -45,8 +45,6 @@ python -m unittest test_roles.py
 ```
 
 ## Built with
-
-Markup: * Bulleted list
 
 - Python
 - OpenAI GPT-3

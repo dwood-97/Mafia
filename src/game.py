@@ -2,7 +2,7 @@
 import random
 from player import Player
 from roles import Mafia, Detective, Doctor, Townsfolk
-from chatgpt_narrator import narrate
+from src.chatgpt_narrator import narrate
 
 
 class Game:

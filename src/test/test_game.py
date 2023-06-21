@@ -1,10 +1,10 @@
 import unittest
-from src.game import Game
+from game import Game
 
 
 class TestGame(unittest.TestCase):
     def test_assign_roles(self):
-        game = Game(["Alice", "Bob", "Charlie", "Dave"])
+        game = Game(["Alice", "Bob", "Charlie", "Dave"], "Test Scene")
         self.assertEqual(len(game.players), 4)
 
     # Add more tests as necessary...

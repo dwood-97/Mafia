@@ -1,6 +1,7 @@
 import unittest
 from game import Game
 
+
 class TestGame(unittest.TestCase):
     def test_assign_roles(self):
         game = Game(["Alice", "Bob", "Charlie", "Dave"])
@@ -8,5 +9,6 @@ class TestGame(unittest.TestCase):
 
     # Add more tests as necessary...
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     unittest.main()

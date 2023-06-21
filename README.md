@@ -10,6 +10,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Python 3.6 or higher
 - OpenAI Python library
+- OpenAI API Token (set as environmental variable)
+
+To set the API token as an environmental variable run the following command in your terminal:
+
+```bash
+export OPENAI_API_TOKEN="<your-api-token>"
+```
 
 ### Installing
 

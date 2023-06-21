@@ -51,11 +51,6 @@ python -m unittest test_game.py
 python -m unittest test_roles.py
 ```
 
-## Built with
-
-- Python
-- OpenAI GPT-3
-
 ## Contributing
 
 We welcome contributions from the community. If you'd like to contribute, please fork the repository and make your changes, then open a pull request to propose your changes.

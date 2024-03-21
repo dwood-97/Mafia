@@ -1,6 +1,5 @@
 from game import Game
 
-
 def main():
     player_names = [
         "Sophia",

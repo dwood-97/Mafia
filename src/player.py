@@ -3,5 +3,4 @@ class Player:
         self.name = name
         self.role = role
         self.is_alive = True
-
-#Testing git script
+        #Testing git script
